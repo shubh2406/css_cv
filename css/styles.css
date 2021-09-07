@@ -1,0 +1,332 @@
+body
+{
+  margin:0;
+}
+
+#top
+{
+  background-color: #22A39F;
+  padding: 260px 0 340px;
+  text-align: center;
+}
+
+h1
+{
+  width: 50%;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 63px;
+  font-weight: 600;
+  color: floralwhite;
+}
+
+#hr-top
+{
+  width: 50%;
+  border-width: 0 0 1px 0;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+#subtitle
+{
+  width: 50%;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+  color: floralwhite;
+}
+
+.container_1
+{
+  padding: 50px 0;
+  text-align: center;
+}
+
+h2
+{
+  width: 50%;
+  margin: 10px auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  color: #22A39F;
+}
+
+.hr1
+{
+  width: 50%;
+  margin: 40px auto 20px;
+  border-width: 0 0 1px 0;
+  border-bottom: 1px solid #727878;
+  opacity: 0.3;
+}
+
+.intro
+{
+  width: 45%;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
+  font-weight: 200;
+  color: #40514E;
+}
+
+p
+{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  color: #40514E;
+}
+
+#profile
+{
+  width: 55%;
+  margin: 20px auto 0;
+  text-align: left;
+  position: relative;
+}
+
+#about_me
+{
+  display: inline-block;
+  width: 33.33%;
+}
+
+#about_me_head
+{
+  width: 50%;
+  margin-left: 35px;
+  margin-bottom: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  font-weight: 300;
+  color: #22A39F;
+}
+
+#about_me_desc
+{
+  margin-left: 35px;
+  text-align: justify;
+}
+
+#profile_pic
+{
+  display: inline-block;
+  width: 33.33%;
+  text-align: center;
+  position: absolute;
+  padding: 50px 0 0;
+}
+
+#details
+{
+  display:inline-block;
+  width:33.33%;
+  position: absolute;
+  left: 66.66%;
+}
+
+#p_info_head
+{
+  width: 50%;
+  margin-bottom: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  font-weight: 300;
+  color: #22A39F;
+}
+
+#p_info_desc
+{
+  text-align: justify;
+}
+
+.p_info
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.container_2
+{
+    padding: 50px 0;
+    text-align: center;
+    background-color: #F3EFE0;
+}
+
+#education
+{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 150px;
+}
+
+.row
+{
+  position: relative;
+}
+
+.cell_deg_cls
+{
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  bottom: 22px;
+}
+
+.cell_deg_clg
+{
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  bottom: 49px;
+}
+
+.cell
+{
+  display: inline-block;
+  width: 45%;
+}
+
+.data
+{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.fa.fa-map-marker
+{
+  color: #22A39F;
+}
+
+#certifications
+{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 80px;
+}
+
+.cell_dsa
+{
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  bottom: 118px;
+}
+
+.cell_f
+{
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  bottom: 172px;
+}
+
+.cell_bcs
+{
+  display: inline-block;
+  width: 50%;
+  position: relative;
+  bottom: 49px;
+}
+
+.cell_2
+{
+  display: inline-block;
+  width: 38%
+}
+.fa.fa-link
+{
+  color: #22A39F;
+}
+
+.view
+{
+  text-decoration: none;
+  color: #22A39F;
+}
+
+.view:hover
+{
+  opacity: 0.5;
+}
+
+#skills
+{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 60px;
+}
+
+#ror_1
+{
+  width: 55%;
+  display: inline-block;
+}
+
+#ror_2
+{
+  width: 44%;
+  display: inline-block;
+}
+
+.cell_skill
+{
+  display: inline-block;
+  width: 50%;
+}
+
+.fa.fa-star
+{
+  font-size: 20px;
+  color: #22A39F
+}
+
+#contact
+{
+  padding: 50px 0 1px;
+  text-align: center;;
+  background-color: #434242;
+}
+
+ul
+{
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  padding-right: 43px;
+}
+
+li
+{
+  display: inline-block;
+  width: 18%;
+}
+
+#copyright
+{
+  width: 11%;
+  margin: 20px auto;
+  font-size: 12px;
+  font-weight: 200;
+  color: floralwhite;
+  padding-right: 4px;
+}
+
+.social:hover
+{
+  opacity: 0.5;
+}
